@@ -1,0 +1,81 @@
+Paket version 2.24.7.0
+Package Xamarin.Forms is referenced multiple times in different versions: ["1.3.3.6323"; "1.5.0.6447"]. Paket will choose the latest one.
+Package NUnit is referenced multiple times with different target frameworks : [">= net45";
+ ">= portable-net45+win+wp80+MonoTouch10+MonoAndroid10+xamarinmac20+xamarinios10"]. Paket may disregard target framework.
+Package Xamarin.Forms is referenced multiple times with different target frameworks : [">= MonoAndroid50"; ">= xamarinios10";
+ ">= portable-net45+win+wp80+MonoTouch10+MonoAndroid10+xamarinmac20+xamarinios10"]. Paket may disregard target framework.
+Local Nuget feed doesn't exist: /Volumes/Users/jack/Nugets.
+Local Nuget feed doesn't exist: /Users/jack/Projects/kiwi-build/.
+Local Nuget feed doesn't exist: /Users/jack/Downloads/mozjpeg.net/.
+Removing 'Import' entry from /Users/jack/Projects/paket-xamarin-workshop/Droid/paket-xamarin-workshop.Droid.csproj for project ..\packages\Xamarin.Forms.1.3.3.6323\build\portable-win+net45+wp80+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.targets
+Adding package Xamarin.Android.Support.v4 to /Users/jack/Projects/paket-xamarin-workshop/Droid/paket.references into group Main
+Adding package Xamarin.Forms to /Users/jack/Projects/paket-xamarin-workshop/Droid/paket.references into group Main
+Adding package NUnit to /Users/jack/Projects/paket-xamarin-workshop/UITests/paket.references into group Main
+Adding package Xamarin.UITest to /Users/jack/Projects/paket-xamarin-workshop/UITests/paket.references into group Main
+Removing 'Import' entry from /Users/jack/Projects/paket-xamarin-workshop/iOS/paket-xamarin-workshop.iOS.csproj for project ..\packages\Xamarin.Forms.1.3.3.6323\build\portable-win+net45+wp80+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.targets
+Adding package Xamarin.Forms to /Users/jack/Projects/paket-xamarin-workshop/iOS/paket.references into group Main
+Adding package Xamarin.TestCloud.Agent to /Users/jack/Projects/paket-xamarin-workshop/iOS/paket.references into group Main
+Removing 'Import' entry from /Users/jack/Projects/paket-xamarin-workshop/paket-xamarin-workshop/paket-xamarin-workshop.csproj for project ..\packages\Xamarin.Forms.1.5.0.6447\build\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.targets
+Adding package CommonServiceLocator to /Users/jack/Projects/paket-xamarin-workshop/paket-xamarin-workshop/paket.references into group Main
+Adding package Prism.Core to /Users/jack/Projects/paket-xamarin-workshop/paket-xamarin-workshop/paket.references into group Main
+Adding package Prism.Forms to /Users/jack/Projects/paket-xamarin-workshop/paket-xamarin-workshop/paket.references into group Main
+Adding package Prism.Unity to /Users/jack/Projects/paket-xamarin-workshop/paket-xamarin-workshop/paket.references into group Main
+Adding package Unity to /Users/jack/Projects/paket-xamarin-workshop/paket-xamarin-workshop/paket.references into group Main
+Adding package Xamarin.Forms to /Users/jack/Projects/paket-xamarin-workshop/paket-xamarin-workshop/paket.references into group Main
+Removing 'Import' entry from /Users/jack/Projects/paket-xamarin-workshop/paket-xamarin-workshop.ViewModels/paket-xamarin-workshop.ViewModels.csproj for project ..\packages\Xamarin.Forms.1.3.3.6323\build\portable-win+net45+wp80+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.targets
+Adding package Prism.Core to /Users/jack/Projects/paket-xamarin-workshop/paket-xamarin-workshop.ViewModels/paket.references into group Main
+Adding package Xamarin.Forms to /Users/jack/Projects/paket-xamarin-workshop/paket-xamarin-workshop.ViewModels/paket.references into group Main
+Removing 'Import' entry from /Users/jack/Projects/paket-xamarin-workshop/paket-xamarin-workshop.ViewModels.Test/paket-xamarin-workshop.ViewModels.Test.csproj for project ..\packages\Xamarin.Forms.1.3.3.6323\build\portable-win+net45+wp80+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.targets
+Adding package NUnit to /Users/jack/Projects/paket-xamarin-workshop/paket-xamarin-workshop.ViewModels.Test/paket.references into group Main
+Adding package Prism.Core to /Users/jack/Projects/paket-xamarin-workshop/paket-xamarin-workshop.ViewModels.Test/paket.references into group Main
+Adding package Xamarin.Forms to /Users/jack/Projects/paket-xamarin-workshop/paket-xamarin-workshop.ViewModels.Test/paket.references into group Main
+Removing 'Import' entry from /Users/jack/Projects/paket-xamarin-workshop/paket-xamarin-workshop.Views/paket-xamarin-workshop.Views.csproj for project ..\packages\Xamarin.Forms.1.5.0.6447\build\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.targets
+Adding package CommonServiceLocator to /Users/jack/Projects/paket-xamarin-workshop/paket-xamarin-workshop.Views/paket.references into group Main
+Adding package Prism.Core to /Users/jack/Projects/paket-xamarin-workshop/paket-xamarin-workshop.Views/paket.references into group Main
+Adding package Prism.Forms to /Users/jack/Projects/paket-xamarin-workshop/paket-xamarin-workshop.Views/paket.references into group Main
+Adding package Xamarin.Forms to /Users/jack/Projects/paket-xamarin-workshop/paket-xamarin-workshop.Views/paket.references into group Main
+Removing /Users/jack/Projects/paket-xamarin-workshop/Droid/packages.config
+Removing /Users/jack/Projects/paket-xamarin-workshop/UITests/packages.config
+Removing /Users/jack/Projects/paket-xamarin-workshop/iOS/packages.config
+Removing /Users/jack/Projects/paket-xamarin-workshop/paket-xamarin-workshop/packages.config
+Removing /Users/jack/Projects/paket-xamarin-workshop/paket-xamarin-workshop.ViewModels/packages.config
+Removing /Users/jack/Projects/paket-xamarin-workshop/paket-xamarin-workshop.ViewModels.Test/packages.config
+Removing /Users/jack/Projects/paket-xamarin-workshop/paket-xamarin-workshop.Views/packages.config
+Dependencies files saved to /Users/jack/Projects/paket-xamarin-workshop/paket.dependencies
+References file saved to /Users/jack/Projects/paket-xamarin-workshop/Droid/paket.references
+References file saved to /Users/jack/Projects/paket-xamarin-workshop/UITests/paket.references
+References file saved to /Users/jack/Projects/paket-xamarin-workshop/iOS/paket.references
+References file saved to /Users/jack/Projects/paket-xamarin-workshop/paket-xamarin-workshop/paket.references
+References file saved to /Users/jack/Projects/paket-xamarin-workshop/paket-xamarin-workshop.ViewModels/paket.references
+References file saved to /Users/jack/Projects/paket-xamarin-workshop/paket-xamarin-workshop.ViewModels.Test/paket.references
+References file saved to /Users/jack/Projects/paket-xamarin-workshop/paket-xamarin-workshop.Views/paket.references
+Solution /Users/jack/Projects/paket-xamarin-workshop/paket-xamarin-workshop.sln changed
+Resolving packages for group Main:
+ - Xamarin.Android.Support.v4 is pinned to 21.0.3.0
+ - Prism.Unity is pinned to 6.1.1
+ - Prism.Core is pinned to 6.1.0
+ - Prism.Forms is pinned to 6.0.1
+ - Unity is pinned to 4.0.1
+ - NUnit is pinned to 2.6.3
+ - Xamarin.Forms is pinned to 1.5.0.6447
+ - CommonServiceLocator is pinned to 1.3
+ - Xamarin.TestCloud.Agent is pinned to 0.13.0
+ - Xamarin.UITest is pinned to 0.7.1
+Paket failed with:
+	There was a version conflict during package resolution.
+  Resolved packages:
+   - CommonServiceLocator 1.3
+   - NUnit 2.6.3
+   - Prism.Core 6.1.0
+   - Prism.Forms 6.0.1
+   - Prism.Unity 6.1.1
+   - Unity 4.0.1
+   - Xamarin.Android.Support.v4 21.0.3.0
+   - Xamarin.Forms 1.5.0.6447
+   - Xamarin.TestCloud.Agent 0.13.0
+   - Xamarin.UITest 0.7.1
+  Could not resolve package Xamarin.Android.Support.v4:
+   - Dependencies file requested: 21.0.3.0
+   - Xamarin.Forms 1.5.0.6447 requested: >= 22.2.1.0
+
+  Please try to relax some conditions.

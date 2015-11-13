@@ -1,6 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".paket", ".paket", "{BE088E67-5158-48F7-895A-A08274D64B54}"
+	ProjectSection(SolutionItems) = preProject
+		paket.dependencies = paket.dependencies
+	EndProjectSection
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "paket-xamarin-workshop", "paket-xamarin-workshop\paket-xamarin-workshop.csproj", "{A661FB7D-22C3-4EBD-9F43-D7DF7A1D4CB9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "paket-xamarin-workshop.iOS", "iOS\paket-xamarin-workshop.iOS.csproj", "{4B17A819-11D0-4263-B535-C614C5408BF7}"
