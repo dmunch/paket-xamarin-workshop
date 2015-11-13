@@ -83,6 +83,14 @@
       <Project>{A661FB7D-22C3-4EBD-9F43-D7DF7A1D4CB9}</Project>
       <Name>xamarin-paket-workshop</Name>
     </ProjectReference>
+    <ProjectReference Include="..\xamarin-paket-workshop.ViewModels\xamarin-paket-workshop.ViewModels.csproj">
+      <Project>{FA1A7E65-C101-4FC1-9006-B407DFED9CA2}</Project>
+      <Name>xamarin-paket-workshop.ViewModels</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\xamarin-paket-workshop.Views\xamarin-paket-workshop.Views.csproj">
+      <Project>{4F315E48-E61A-47B0-9C0E-149FBD394952}</Project>
+      <Name>xamarin-paket-workshop.Views</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\Default.png" />
