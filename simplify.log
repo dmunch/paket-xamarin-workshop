@@ -1,0 +1,10 @@
+Paket version 2.24.7.0
+Removing CommonServiceLocator from /Users/jack/Projects/paket-xamarin-workshop/paket.dependencies (group Main)
+Removing Prism.Core from /Users/jack/Projects/paket-xamarin-workshop/paket.dependencies (group Main)
+Removing Prism.Forms from /Users/jack/Projects/paket-xamarin-workshop/paket.dependencies (group Main)
+Removing Unity from /Users/jack/Projects/paket-xamarin-workshop/paket.dependencies (group Main)
+Removing Xamarin.Forms from /Users/jack/Projects/paket-xamarin-workshop/paket.dependencies (group Main)
+Simplifying /Users/jack/Projects/paket-xamarin-workshop/paket.dependencies
+Dependencies files saved to /Users/jack/Projects/paket-xamarin-workshop/paket.dependencies
+0 seconds - ready.
+
