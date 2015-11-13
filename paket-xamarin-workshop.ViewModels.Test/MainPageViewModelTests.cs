@@ -1,7 +1,7 @@
 ﻿using System;
 using NUnit.Framework;
 
-namespace xamarinpaketworkshop.ViewModels.Test
+namespace paketxamarinworkshop.ViewModels.Test
 {
     public class MainPageViewModelTests
     {

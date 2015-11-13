@@ -7,7 +7,7 @@
     <ProjectGuid>{FA1A7E65-C101-4FC1-9006-B407DFED9CA2}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>xamarinpaketworkshop.ViewModels</RootNamespace>
-    <AssemblyName>xamarin-paket-workshop.ViewModels</AssemblyName>
+    <AssemblyName>paket-xamarin-workshop.ViewModels</AssemblyName>
     <TargetFrameworkProfile>Profile78</TargetFrameworkProfile>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
   </PropertyGroup>

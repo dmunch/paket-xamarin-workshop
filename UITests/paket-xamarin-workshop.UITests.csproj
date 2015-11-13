@@ -6,7 +6,7 @@
     <ProjectGuid>{3BBA6B7D-696F-4C73-A90A-89ED9A7D3B12}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>xamarinpaketworkshop.UITests</RootNamespace>
-    <AssemblyName>xamarin-paket-workshop.UITests</AssemblyName>
+    <AssemblyName>paket-xamarin-workshop.UITests</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
@@ -37,15 +37,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\iOS\xamarin-paket-workshop.iOS.csproj">
+    <ProjectReference Include="..\iOS\paket-xamarin-workshop.iOS.csproj">
       <Project>{4B17A819-11D0-4263-B535-C614C5408BF7}</Project>
-      <Name>xamarin-paket-workshop.iOS</Name>
+      <Name>paket-xamarin-workshop.iOS</Name>
       <ReferenceOutputAssembly>False</ReferenceOutputAssembly>
       <Private>False</Private>
     </ProjectReference>
-    <ProjectReference Include="..\Droid\xamarin-paket-workshop.Droid.csproj">
+    <ProjectReference Include="..\Droid\paket-xamarin-workshop.Droid.csproj">
       <Project>{742CD249-90E3-460D-A498-41BD52EC7452}</Project>
-      <Name>xamarin-paket-workshop.Droid</Name>
+      <Name>paket-xamarin-workshop.Droid</Name>
       <ReferenceOutputAssembly>False</ReferenceOutputAssembly>
       <Private>False</Private>
     </ProjectReference>

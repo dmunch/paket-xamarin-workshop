@@ -2,7 +2,7 @@
 using Xamarin.Forms;
 using Prism.Mvvm;
 
-namespace xamarinpaketworkshop
+namespace paketxamarinworkshop
 {
     public class App : Application
     {

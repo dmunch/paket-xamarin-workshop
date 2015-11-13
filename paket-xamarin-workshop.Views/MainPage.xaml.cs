@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using Xamarin.Forms;
 using Prism.Mvvm;
 
-namespace xamarinpaketworkshop.Views
+namespace paketxamarinworkshop.Views
 {
     public partial class MainPage : ContentPage
     {

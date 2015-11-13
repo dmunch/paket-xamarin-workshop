@@ -6,7 +6,7 @@ using Prism.Mvvm;
 using System.Globalization;
 using System;
 
-namespace xamarinpaketworkshop
+namespace paketxamarinworkshop
 {
     using Views;
     using ViewModels;

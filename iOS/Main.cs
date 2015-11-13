@@ -5,7 +5,7 @@ using System.Linq;
 using Foundation;
 using UIKit;
 
-namespace xamarinpaketworkshop.iOS
+namespace paketxamarinworkshop.iOS
 {
     public class Application
     {

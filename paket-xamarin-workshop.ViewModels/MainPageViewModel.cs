@@ -2,7 +2,7 @@
 using Prism.Mvvm;
 using Prism.Commands;
 
-namespace xamarinpaketworkshop.ViewModels
+namespace paketxamarinworkshop.ViewModels
 {
     public class MainPageViewModel : BindableBase
     {

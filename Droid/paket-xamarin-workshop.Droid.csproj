@@ -14,7 +14,7 @@
     <AndroidResgenFile>Resources\Resource.designer.cs</AndroidResgenFile>
     <AndroidApplication>True</AndroidApplication>
     <AndroidUseLatestPlatformSdk>True</AndroidUseLatestPlatformSdk>
-    <AssemblyName>xamarin-paket-workshop.Droid</AssemblyName>
+    <AssemblyName>paket-xamarin-workshop.Droid</AssemblyName>
     <TargetFrameworkVersion>v5.0</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
@@ -59,9 +59,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\xamarin-paket-workshop\xamarin-paket-workshop.csproj">
+    <ProjectReference Include="..\paket-xamarin-workshop\paket-xamarin-workshop.csproj">
       <Project>{A661FB7D-22C3-4EBD-9F43-D7DF7A1D4CB9}</Project>
-      <Name>xamarin-paket-workshop</Name>
+      <Name>paket-xamarin-workshop</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
